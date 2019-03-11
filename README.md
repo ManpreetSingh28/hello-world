@@ -1,2 +1,2 @@
 # hello-world
-Manpreet Singh, sing5635 , 991460094, Davis
+Manpreet Singh, username  - sing5635 ,studentid - 991460094, campus - Davis
